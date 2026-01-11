@@ -1,0 +1,21 @@
+{
+  "name": "TechPulse Haber",
+  "short_name": "TechPulse",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#020617",
+  "description": "Güncel teknoloji haberleri portalı.",
+  "icons": [
+    {
+      "src": "images/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-198.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
